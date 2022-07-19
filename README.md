@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on developing a quant trading platform.
-- 📫 How to reach me: ... [Telegram](https://t.me/mquanty)   [Email](mailto:mquanty@outlook.com)
+- 📫 How to reach me: ... [Telegram](https://t.me/mquanty)  or drop an [Email](mailto:mquanty@outlook.com)
