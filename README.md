@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing a quant trading platform.
 - 📫 How to reach me: ... [Telegram](https://t.me/mquanty)  or drop an [Email](mailto:mquanty@outlook.com)
+- 🚩 Visit my site at [QUANTY](https://www.quanty.in)
